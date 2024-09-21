@@ -1,0 +1,44 @@
+*
+{
+    background-color: black;
+}
+main
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    color: yellow;
+
+}
+header
+{
+    display: flex;
+    flex-direction: row;
+}
+#flor
+{
+    height: 800px;
+    width: 600px;
+
+}
+#flor2
+{
+    height: 400px;
+    width: 200px;
+    margin-top: 350px;
+}
+#flor3
+{
+    height: 400px;
+    width: 200px;
+    
+    rotate: 180deg;
+}
+
+a
+{
+    text-decoration: none;
+    color: yellow;
+}
